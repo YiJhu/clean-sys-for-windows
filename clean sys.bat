@@ -1,9 +1,9 @@
 @echo off
-echo  ¶}©l²M°£¨t²Î©U§£ÀÉ®×¡A¨Ï¥Î«e½Ğ½T»{±zªºÀ³¥Îµ{¦¡¬O§_¬Ò¬°Ãö³¬ª¬ºA
+echo  é–‹å§‹æ¸…é™¤ç³»çµ±åƒåœ¾æª”æ¡ˆï¼Œä½¿ç”¨å‰è«‹ç¢ºèªæ‚¨çš„æ‡‰ç”¨ç¨‹å¼æ˜¯å¦çš†ç‚ºé—œé–‰ç‹€æ…‹
 echo  power by YiJhu https://github.com/YiJhu
 echo  my website https://darkkingtw.me
-
-echo ²M°£IE¼È¦sÀÉ
+pause
+echo æ¸…é™¤IEæš«å­˜æª”
 pause
 taskkill.exe /F /IM iexplore.exe
 del /f /s /q "%userprofile%\AppData\Local\Microsoft\Windows\Temporary Internet Files\*.*"
@@ -13,17 +13,17 @@ del /f /s /q "%userprofile%\Local Settings\Temporary Internet Files\*.*"
 del /f /s /q "%userprofile%\Local Settings\Temp\*.*"
 rd /s /q %userprofile%\Local Settings\Temp
 del /f /s /q "%userprofile%\recent\*.*"
-echo ²M°£Google Chrome¼È¦sÀÉ
+echo æ¸…é™¤Google Chromeæš«å­˜æª”
 pause
 taskkill.exe /F /IM chrome.exe
 del /f /s /q "%userprofile%\Local Settings\Application Data\Chromium\User Data\Default\Cache\*.*"
 del /f /s /q "%userprofile%\Local Settings\Application Data\Google\Chrome\User Data\Default\Cache\*.*"
 del /f /s /q "%LOCALAPPDATA%\Google\Chrome\User Data\Default\Cache\*.*"
-echo ²M°£Firebox¼È¦sÀÉ
+echo æ¸…é™¤Fireboxæš«å­˜æª”
 pause
 taskkill.exe /F /IM firefox.exe
 del /f /s /q "%userprofile%\AppData\Local\Mozilla\Firefox\Profiles\*.*"
-echo ²M°£¨t²Î©U§£ÀÉ®×
+echo æ¸…é™¤ç³»çµ±åƒåœ¾æª”æ¡ˆ
 pause
 del /f /s /q %systemdrive%\*.tmp
 del /f /s /q %systemdrive%\*._mp
@@ -48,6 +48,6 @@ del /f /q %userprofile%\recent\*.*
 del /f /s /q "%userprofile%\Local Settings\Temporary Internet Files\*.*"
 del /f /s /q "%userprofile%\Local Settings\Temp\*.*"
 del /f /s /q "%userprofile%\recent\*.*"
-echo ¨t²Î©U§£²M°£§¹²¦!
+echo ç³»çµ±åƒåœ¾æ¸…é™¤å®Œç•¢!
 echo. & pause
 exit  
