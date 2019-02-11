@@ -8,10 +8,10 @@
 
 **It can keep your computer at the best speed and fluidity.**
 
-# Update record
+## Update record
 
 2019/02/11 **Add Opera clean**
 
-# LICENSE
+## LICENSE
 
 **This File is use [LGPL-3.0](https://github.com/YiJhu/clean-sys-for-windows/blob/master/LICENSE) LICENSE**
