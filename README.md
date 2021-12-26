@@ -1,6 +1,6 @@
 # clean-sys-for-windows
 
-[![GitHub issues](https://img.shields.io/github/issues/YiJhu/clean-sys-for-windows.svg)](https://github.com/YiJhu/clean-sys-for-windows/issues) [![GitHub license](https://img.shields.io/github/license/YiJhu/clean-sys-for-windows.svg)](https://github.com/YiJhu/clean-sys-for-windows/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/YiJhu/clean-sys-for-windows.svg)](https://github.com/YiJhu/clean-sys-for-windows/issues) [![GitHub license](https://img.shields.io/github/license/YiJhu/clean-sys-for-windows.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYiJhu%2Fclean-sys-for-windows.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FYiJhu%2Fclean-sys-for-windows?ref=badge_shield)
 
 
